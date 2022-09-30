@@ -648,7 +648,6 @@ body {
     /* or 145% */
 
     text-align: center;
-    letter-spacing: 0.42px;
 
     color: rgba(255, 255, 255, 0.5);
     padding: 25px 0;
@@ -689,7 +688,6 @@ body {
     justify-content: center;
     width:1000px ;
     height: 300px;
-    /*background: #5b5454;*/
     background: #1D1B24;
     margin-left: 70px;
     border-radius: 30px;;
@@ -699,7 +697,6 @@ body {
     font-weight: 400;
     font-size: 55px;
     line-height: 91px;
-    /* identical to box height, or 144% */
 
     text-align: center;
 
